@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ObservableAssignment</string>
+    <string name="start_rxjava_stream">Start RxJava stream</string>
+</resources>
